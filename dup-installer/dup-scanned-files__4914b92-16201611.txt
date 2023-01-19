@@ -255,7 +255,7 @@
 {"p":"wp-content\/uploads\/happyaddons\/css\/ha-820.css","s":2274,"n":1}
 {"p":"wp-content\/uploads\/happyaddons\/css\/ha-519.css","s":2274,"n":1}
 {"p":"wp-content\/uploads\/happyaddons\/css\/ha-501.css","s":5233,"n":1}
-{"p":"wp-content\/wp-rocket-config\/madeinnatural.com.br.php","s":1936,"n":1}
+{"p":"wp-content\/wp-rocket-config\/madeinnatural.e-cavalheri.com.br.php","s":1936,"n":1}
 {"p":"wp-content\/wp-rocket-config\/index.html","s":0,"n":1}
 {"p":"wp-content\/wp-rocket-config\/projetos.hyggearquiteturaedesign.com.br.php","s":1936,"n":1}
 {"p":"wp-content\/wp-rocket-config\/empresas.jetacontabilidade.com.br.php","s":1936,"n":1}

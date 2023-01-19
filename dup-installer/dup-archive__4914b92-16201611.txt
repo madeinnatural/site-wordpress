@@ -27,7 +27,7 @@
     "subsites": [
         {
             "id": 1,
-            "domain": "madeinnatural.com.br",
+            "domain": "madeinnatural.e-cavalheri.com.br",
             "path": "\/",
             "blogname": "Made In Natural",
             "blog_prefix": "wp_",
@@ -44,12 +44,12 @@
                     "id": "1"
                 }
             ],
-            "fullHomeUrl": "https:\/\/madeinnatural.com.br",
-            "fullSiteUrl": "https:\/\/madeinnatural.com.br",
+            "fullHomeUrl": "https:\/\/madeinnatural.e-cavalheri.com.br",
+            "fullSiteUrl": "https:\/\/madeinnatural.e-cavalheri.com.br",
             "uploadPath": "wp-content\/uploads",
             "fullUploadPath": "\/home\/u563920743\/domains\/e-cavalheri.com.br\/public_html\/madeinnatural\/wp-content\/uploads",
             "fullUploadSafePath": "\/home\/u563920743\/domains\/e-cavalheri.com.br\/public_html\/madeinnatural\/wp-content\/uploads",
-            "fullUploadUrl": "https:\/\/madeinnatural.com.br\/wp-content\/uploads",
+            "fullUploadUrl": "https:\/\/madeinnatural.e-cavalheri.com.br\/wp-content\/uploads",
             "filteredPaths": []
         }
     ],
@@ -326,7 +326,7 @@
                     "inWpConfig": false
                 },
                 "WP_CONTENT_URL": {
-                    "value": "https:\/\/madeinnatural.com.br\/wp-content",
+                    "value": "https:\/\/madeinnatural.e-cavalheri.com.br\/wp-content",
                     "inWpConfig": false
                 },
                 "WP_PLUGIN_DIR": {
@@ -334,7 +334,7 @@
                     "inWpConfig": false
                 },
                 "WP_PLUGIN_URL": {
-                    "value": "https:\/\/madeinnatural.com.br\/wp-content\/plugins",
+                    "value": "https:\/\/madeinnatural.e-cavalheri.com.br\/wp-content\/plugins",
                     "inWpConfig": false
                 },
                 "PLUGINDIR": {
@@ -442,7 +442,7 @@
                     "inWpConfig": false
                 },
                 "WPMU_PLUGIN_URL": {
-                    "value": "https:\/\/madeinnatural.com.br\/wp-content\/mu-plugins",
+                    "value": "https:\/\/madeinnatural.e-cavalheri.com.br\/wp-content\/mu-plugins",
                     "inWpConfig": false
                 },
                 "MUPLUGINDIR": {
@@ -451,14 +451,14 @@
                 }
             },
             "realValues": {
-                "siteUrl": "https:\/\/madeinnatural.com.br",
-                "homeUrl": "https:\/\/madeinnatural.com.br",
-                "loginUrl": "https:\/\/madeinnatural.com.br\/gerent\/",
-                "contentUrl": "https:\/\/madeinnatural.com.br\/wp-content",
-                "uploadBaseUrl": "https:\/\/madeinnatural.com.br\/wp-content\/uploads",
-                "pluginsUrl": "https:\/\/madeinnatural.com.br\/wp-content\/plugins",
-                "mupluginsUrl": "https:\/\/madeinnatural.com.br\/wp-content\/mu-plugins",
-                "themesUrl": "https:\/\/madeinnatural.com.br\/wp-content\/themes",
+                "siteUrl": "https:\/\/madeinnatural.e-cavalheri.com.br",
+                "homeUrl": "https:\/\/madeinnatural.e-cavalheri.com.br",
+                "loginUrl": "https:\/\/madeinnatural.e-cavalheri.com.br\/gerent\/",
+                "contentUrl": "https:\/\/madeinnatural.e-cavalheri.com.br\/wp-content",
+                "uploadBaseUrl": "https:\/\/madeinnatural.e-cavalheri.com.br\/wp-content\/uploads",
+                "pluginsUrl": "https:\/\/madeinnatural.e-cavalheri.com.br\/wp-content\/plugins",
+                "mupluginsUrl": "https:\/\/madeinnatural.e-cavalheri.com.br\/wp-content\/mu-plugins",
+                "themesUrl": "https:\/\/madeinnatural.e-cavalheri.com.br\/wp-content\/themes",
                 "originalPaths": {
                     "home": "\/home\/u563920743\/domains\/e-cavalheri.com.br\/public_html\/madeinnatural",
                     "abs": "\/home\/u563920743\/domains\/e-cavalheri.com.br\/public_html\/madeinnatural",
