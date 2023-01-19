@@ -8,9 +8,9 @@ defined( 'ABSPATH' ) || exit;
 
 define( 'WP_ROCKET_ADVANCED_CACHE', true );
 
-$rocket_path        = '/home/u563920743/domains/e-cavalheri.com.br/public_html/madeinnatural/wp-content/plugins/wp-rocket/';
-$rocket_config_path = '/home/u563920743/domains/e-cavalheri.com.br/public_html/madeinnatural/wp-content/wp-rocket-config/';
-$rocket_cache_path  = '/home/u563920743/domains/e-cavalheri.com.br/public_html/madeinnatural/wp-content/cache/wp-rocket/';
+$rocket_path        = '/var/www/html/wp-content/plugins/wp-rocket/';
+$rocket_config_path = '/var/www/html/wp-content/wp-rocket-config/';
+$rocket_cache_path  = '/var/www/html/wp-content/cache/wp-rocket/';
 
 if (
 	version_compare( phpversion(), '7.0', '<' )
